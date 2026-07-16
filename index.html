@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  
+  <!-- Meta tag per iOS PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Per Te">
+  <link rel="apple-touch-icon" href="icon.png">
+  
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+  <title>I Nostri Giorni</title>
+</head>
+<body>
+  <header>
+    <h1>Un pensiero al giorno ❤️</h1>
+  </header>
+  
+  <main id="grid-container">
+    <!-- Le card verranno generate qui dal JavaScript -->
+  </main>
+
+  <!-- Modale per mostrare il messaggio sbloccato -->
+  <div id="message-modal" class="hidden">
+    <div class="modal-content">
+      <span id="close-modal">&times;</span>
+      <h2 id="modal-date"></h2>
+      <p id="modal-text"></p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

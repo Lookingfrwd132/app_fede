@@ -1,0 +1,15 @@
+{
+  "name": "Ti penso sempre",
+  "short_name": "Ti penso sempre",
+  "display": "standalone",
+  "start_url": "index.html",
+  "background_color": "#fdfafb",
+  "theme_color": "#e63946",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
