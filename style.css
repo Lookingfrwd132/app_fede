@@ -82,6 +82,16 @@ header h1 {
   color: #888;
 }
 
+/* Stile per la GIF dinamica */
+#modal-gif {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 15px;
+  display: none; /* Viene mostrata dal JS solo se presente */
+}
+
 #modal-text {
   font-size: 1.2rem;
   line-height: 1.5;
