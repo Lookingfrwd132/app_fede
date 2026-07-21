@@ -1,75 +1,75 @@
 // Cambia 'false' in 'true' quando vuoi sbloccare l'app
-const IS_APP_UNLOCKED = false;
+const IS_APP_UNLOCKED = true;
 
 const messages = [
  { 
-    date: "2026-07-25", 
-    text: "Giorno 1: Il viaggio continua! Sei sempre nei miei pensieri.", 
+    date: "2026-07-17", 
+    text: "Giorno 1: Ciao amore, buon viaggio. Mi auguro che tu possa trovare un ambiente stimolante e che tu possa divertirti! Ricorda che ti amo e che sono qui quando ti va di parlare.", 
     gif: "giorno1.gif" 
   },
   { 
-    date: "2026-07-26", 
-    text: "Giorno 2: Ti mando un bacio virtuale gigante. Spero ti faccia sorridere!", 
+    date: "2026-07-18", 
+    text: "Giorno 2: Mi manchi già...Com'è la città? Spero non faccia troppo caldo. Le persone come sono, cordiali?", 
     gif: "giorno2.gif" 
   },
   { 
-    date: "2026-07-27", 
-    text: "Giorno 3: Qualsiasi cosa tu stia affrontando oggi, ricorda che faccio il tifo per te.", 
+    date: "2026-07-19", 
+    text: "Giorno 3: Oggi è il primo giornooooo!! Goditelo appieno e dopo racconta il tutto al tuo diario umano (io).", 
     gif: "giorno3.gif" 
   },
   { 
-    date: "2026-07-28", 
-    text: "Giorno 4: Prima settimana andata! La distanza ci separa fisicamente, ma nei miei pensieri siamo vicinissimi.", 
+    date: "2026-07-20", 
+    text: "Giorno 4: Come hai dormito oggi? Spero tu abbia trovato un ambiente stimolante ieri e che ora sia felice.", 
     gif: "giorno4.gif" 
   },
   { 
-    date: "2026-07-29", 
-    text: "Giorno 5: Un giorno in meno al nostro prossimo abbraccio. Tieni duro!", 
+    date: "2026-07-21", 
+    text: "Giorno 5: Terzo giorno, ormai sei entrata nel team. Come sono i tuoi compagni? Come ti sembra il gruppo di ricerca?", 
     gif: "giorno5.gif" 
   },
   { 
     date: "2026-07-30", 
-    text: "Giorno 6: Promemoria del giorno: sei la cosa più bella che mi sia mai capitata.", 
+    text: "", 
     gif: "giorno6.gif" 
   },
   { 
     date: "2026-07-31", 
-    text: "Giorno 7: Doppia cifra! Chiudiamo luglio alla grande. Guarda il cielo stasera, stiamo guardando la stessa luna.", 
+    text: "Giorno 7: ", 
     gif: "giorno7.gif" 
   },
   { 
     date: "2026-08-01", 
-    text: "Giorno 8: Benvenuto agosto! Non vedo l'ora di poterti raccontare la mia giornata guardandoti negli occhi.", 
+    text: "Giorno 8: ", 
     gif: "giorno8.gif" 
   },
   { 
     date: "2026-08-02", 
-    text: "Giorno 9: Bevi un po' d'acqua, sorridi e ricordati che ti amo da impazzire!", 
+    text: "Giorno 9: ", 
     gif: "giorno9.gif" 
   },
   { 
     date: "2026-08-03", 
-    text: "Giorno 10: Un'altra piccola tacca sul nostro calendario. Ce la stiamo cavando alla grande.", 
+    text: "Giorno 10: ", 
     gif: "giorno10.gif" 
   },
   { 
     date: "2026-08-04", 
-    text: "Giorno 11: Due settimane esatte! Il tempo passa e tu mi manchi sempre di più.", 
+    text: "Giorno 11:", 
     gif: "giorno11.gif" 
   },
   { 
     date: "2026-08-05", 
-    text: "Giorno 12: Sei il mio posto felice, anche da lontano.", 
+    text: "Giorno 12: ", 
     gif: "giorno12.gif" 
   },
   { 
     date: "2026-08-06", 
-    text: "Giorno 13: Oggi ho visto una cosa che mi ha fatto pensare a te... anche se in realtà ci penso sempre.", 
+    text: "Giorno 13: ", 
     gif: "giorno13.gif" 
   },
   { 
     date: "2026-08-07", 
-    text: "Giorno 14: Quando torni, ti preparo la tua cena preferita. Promesso!", 
+    text: "Giorno 14: ", 
     gif: "giorno14.gif" 
   },
   { 
