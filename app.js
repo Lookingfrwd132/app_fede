@@ -33,7 +33,7 @@ const messages = [
     gif: "giorno6.gif" 
   },
   { 
-    date: "2026-07-21", 
+    date: "2026-07-31", 
     text: "Giorno 7: Oggi si conclude la tua prima settimana al centro di ricerca. Com'è andata? Sei pregata di scrivere un report dettagliato su tutti gli elementi interessanti di questa avventura al numero +393926752054, pena il disservizio di questa applicazione. Il report deve essere riportare, in maniera eloquente e discorsiva, i motivi per i quali ami profondamente il possessore dell'utenza telefonica citata poco fa!", 
     gif: "giorno7.gif" 
   },
