@@ -3,38 +3,39 @@ const IS_APP_UNLOCKED = true;
 
 const messages = [
  { 
-    date: "2026-07-17", 
+    date: "2026-07-25", 
     text: "Giorno 1: Ciao amore, buon viaggio. Mi auguro che tu possa trovare un ambiente stimolante e che tu possa divertirti! Ricorda che ti amo e che sono qui quando ti va di parlare.", 
     gif: "giorno1.gif" 
   },
   { 
-    date: "2026-07-18", 
+    date: "2026-07-26", 
     text: "Giorno 2: Mi manchi già...Com'è la città? Spero non faccia troppo caldo. Le persone come sono, cordiali?", 
     gif: "giorno2.gif" 
   },
   { 
-    date: "2026-07-19", 
+    date: "2026-07-27", 
     text: "Giorno 3: Oggi è il primo giornooooo!! Goditelo appieno e dopo racconta il tutto al tuo diario umano (io).", 
     gif: "giorno3.gif" 
   },
   { 
-    date: "2026-07-20", 
+    date: "2026-07-28", 
     text: "Giorno 4: Come hai dormito oggi? Spero tu abbia trovato un ambiente stimolante ieri e che ora sia felice.", 
     gif: "giorno4.gif" 
   },
   { 
-    date: "2026-07-21", 
+    date: "2026-07-29", 
     text: "Giorno 5: Terzo giorno, ormai sei entrata nel team. Come sono i tuoi compagni? Come ti sembra il gruppo di ricerca?", 
     gif: "giorno5.gif" 
   },
   { 
     date: "2026-07-30", 
-    text: "", 
+    text: "Giorno 6: Non riesco a smettere di pensare che per un po' saremo lontani. Questa cosa mi rattrista, ma sapere che tu stai costruendo il tuo futuro e che sei così felice di questa opportunità mi rallegra. Sono fiero di te.", 
     gif: "giorno6.gif" 
   },
   { 
-    date: "2026-07-31", 
-    text: "Giorno 7: ", 
+    date: "2026-07-21", 
+    text: "Giorno 7: Oggi si conclude la tua prima settimana al centro di ricerca. Com'è andata? 
+    Sei pregata di scrivere un report dettagliato su tutti gli elementi interessanti di questa avventura al numero +393926752054, pena il disservizio di questa applicazione. Il report deve essere riportare, in maniera eloquente e discorsiva, i motivi per i quali ami profondamente il possessore dell'utenza telefonica citata poco fa!", 
     gif: "giorno7.gif" 
   },
   { 
