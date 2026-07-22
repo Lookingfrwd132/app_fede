@@ -1,5 +1,5 @@
 // Cambia 'false' in 'true' quando vuoi sbloccare l'app
-const IS_APP_UNLOCKED = false;
+const IS_APP_UNLOCKED = true;
 
 const messages = [
  { 
