@@ -4,7 +4,7 @@ const IS_APP_UNLOCKED = true;
 const messages = [
  { 
     date: "2026-07-25", 
-    text: "Giorno 1: Ciao amore, buon viaggio. Mi auguro che tu possa trovare un ambiente stimolante e che tu possa divertirti! Ricorda che ti amo e che sono qui quando ti va di parlare.", 
+    text: "Giorno 1: Ciao amore, ida oggi in poi sarai amorevolmente costretta ad aprire questa app ogni giorno: preparati a ricevere la tua dose quotidiana di affetto. Buon viaggio! P.S: Sì, il bigliettino l'ho scritto ieri notte dopo The Odissey perché non riuscivo a non pensare ad altro se non a te.",
     gif: "giorno1.gif" 
   },
   { 
