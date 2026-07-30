@@ -4,7 +4,7 @@ const IS_APP_UNLOCKED = true;
 const messages = [
  { 
     date: "2026-07-25", 
-    text: "Giorno 1: Ciao amore, ida oggi in poi sarai amorevolmente costretta ad aprire questa app ogni giorno: preparati a ricevere la tua dose quotidiana di affetto. Buon viaggio! P.S: Sì, il bigliettino l'ho scritto ieri notte dopo The Odissey perché non riuscivo a non pensare ad altro se non a te.",
+    text: "Giorno 1: Ciao amore, buon viaggio. Mi auguro che tu possa trovare un ambiente stimolante e che tu possa divertirti! Ricorda che ti amo e che sono qui quando ti va di parlare.", 
     gif: "giorno1.gif" 
   },
   { 
@@ -34,32 +34,32 @@ const messages = [
   },
   { 
     date: "2026-07-31", 
-    text: "Giorno 7: Oggi si conclude la tua prima settimana al centro di ricerca. Com'è andata? Sei pregata di scrivere un report dettagliato su tutti gli elementi interessanti di questa avventura al numero +393926752054, pena il disservizio di questa applicazione. Il report deve essere riportare, in maniera eloquente e discorsiva, i motivi per i quali ami profondamente il possessore dell'utenza telefonica citata poco fa!", 
+    text: "Giorno 7: Questa notte ti ho pensata. Anche se siamo lontani, stavamo guardando la stessa luna.", 
     gif: "giorno7.gif" 
   },
   { 
     date: "2026-08-01", 
-    text: "Giorno 8: ", 
+    text: "Giorno 8: Beh potremmo dire la stessa cosa anche del sole, insomma però la luna è più romantica…vabbè oggi che programmi hai? Raccontamelooo", 
     gif: "giorno8.gif" 
   },
   { 
     date: "2026-08-02", 
-    text: "Giorno 9: ", 
+    text: "Giorno 9: Buona giornata amore, che possa oggi essere un giorno pieno di cose belle e di gay (esclusi dalle cose belle per me, ma inclusi per te).", 
     gif: "giorno9.gif" 
   },
   { 
     date: "2026-08-03", 
-    text: "Giorno 10: ", 
+    text: "Giorno 10: Oggi sono ufficialmente passati dieci giorni. Sappi che il mio primo pensiero al mattino non è più l’università, ma è sperare che tu possa stare bene (e avere meno caldo).", 
     gif: "giorno10.gif" 
   },
   { 
     date: "2026-08-04", 
-    text: "Giorno 11:", 
+    text: "Giorno 11: Secondo te chi vincerebbe un incontro di boxe tra Iggy e un gatto, entrambi bipedi?", 
     gif: "giorno11.gif" 
   },
   { 
     date: "2026-08-05", 
-    text: "Giorno 12: ", 
+    text: "Giorno 12: Come sarà casa nostra ancora non lo so, ma so che questo sarà l’unico aggettivo che potrà descriverla davvero.", 
     gif: "giorno12.gif" 
   },
   { 
@@ -74,7 +74,7 @@ const messages = [
   },
   { 
     date: "2026-08-08", 
-    text: "Giorno 15: Stamattina mi sono svegliato con il sorriso solo perché ti ho sognata.", 
+    text: "Giorno 15: ", 
     gif: "giorno15.gif" 
   },
   { 
@@ -99,7 +99,7 @@ const messages = [
   },
   { 
     date: "2026-08-13", 
-    text: "Giorno 20: Sei fortissima e so che stai affrontando tutto alla grande. Sono super fiero di te.", 
+    text: "Giorno 20: Mi manca averti vicina, sentire il tuo profumo sul mio corpo e il tuo respiro sul mio viso.", 
     gif: "giorno20.gif" 
   },
   { 
