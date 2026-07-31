@@ -39,7 +39,7 @@ const messages = [
   },
   { 
     date: "2026-08-01", 
-    text: "Giorno 8: Beh potremmo dire la stessa cosa anche del sole, insomma però la luna è più romantica…vabbè oggi che programmi hai? Raccontamelooo", 
+    text: "Giorno 8: Se un file multimediale potesse avere un grado di usura, direi che il video che mi hai mandato stasera sarebbe davvero molto consumato, perché non riesco a smettere di guardarlo...sei davvero stupenda, quel vestito, quegli accessori, il trucco, il tuo faccino, tutto. Sei. Bellissima. ", 
     gif: "giorno8.gif" 
   },
   { 
