@@ -64,12 +64,12 @@ const messages = [
   },
   { 
     date: "2026-08-06", 
-    text: "Giorno 13: ", 
+    text: "Giorno 13: Quando mi hai videochiamato ero parecchio stanco, appesantito dal carico di lavoro della tesi, ma vederti sorridente e ricevere quel bacino mi ha svoltato la giornata. Grazie di esistere.", 
     gif: "giorno13.gif" 
   },
   { 
     date: "2026-08-07", 
-    text: "Giorno 14: ", 
+    text: "Giorno 14: https://vm.tiktok.com/ZN8dpD6vB/ (posso scaricarlo e inviartelo se non riesci a vederlo)", 
     gif: "giorno14.gif" 
   },
   { 
