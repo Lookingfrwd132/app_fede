@@ -74,37 +74,37 @@ const messages = [
   },
   { 
     date: "2026-08-08", 
-    text: "Giorno 15: ", 
+    text: "Giorno 15: E pensare che qualche anno fa neanche ci conoscevamo; ora ti penso ogni giorno, ogni ora e ogni minuto della mia vita.", 
     gif: "giorno15.gif" 
   },
   { 
     date: "2026-08-09", 
-    text: "Giorno 16: Tieni botta amore, manca sempre meno alla fine di questo conto alla rovescia.", 
+    text: "Giorno 16: Questa è la cosa più vicina ad un bacino che posso darti per ora, quindi BACINO! Tra 11 giorni te ne darò uno vero.", 
     gif: "giorno16.gif" 
   },
   { 
     date: "2026-08-10", 
-    text: "Giorno 17: Venti giorni! E stanotte è San Lorenzo: cerca una stella cadente, io il mio desiderio l'ho già realizzato con te.", 
+    text: "Giorno 17: Mai come oggi siamo stati così a lungo lontani, e mai quanto oggi mi manchi...", 
     gif: "giorno17.gif" 
   },
   { 
     date: "2026-08-11", 
-    text: "Giorno 18: Ti mando una dose extra di energia positiva per affrontare questa giornata!", 
+    text: "Giorno 18: Sedermi qui a scrivere ogni giorno una frase nuova affinché tu possa leggerla e sperare che ti possa strappare un sorriso mi ha fatto riflettere. L'amore non è bisogno, ma presenza, e io per te ci sarò sempre.", 
     gif: "giorno18.gif" 
   },
   { 
     date: "2026-08-12", 
-    text: "Giorno 19: Più passa il tempo, più ho voglia di riabbracciarti.", 
+    text: "Giorno 19: Pensa che stanotte guarderemo la stessa eclissi… È come se il cielo accorciasse tutte le distanze tra me e te, e per un attimo potessi stringerti tra le mie braccia.", 
     gif: "giorno19.gif" 
   },
   { 
     date: "2026-08-13", 
-    text: "Giorno 20: Mi manca averti vicina, sentire il tuo profumo sul mio corpo e il tuo respiro sul mio viso.", 
+    text: "Giorno 20: ", 
     gif: "giorno20.gif" 
   },
   { 
     date: "2026-08-14", 
-    text: "Giorno 21: Un pensierino veloce per dirti che sei la cosa più preziosa che ho.", 
+    text: "Giorno 21: ", 
     gif: "giorno21.gif" 
   },
   { 
