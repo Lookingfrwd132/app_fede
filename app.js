@@ -99,7 +99,7 @@ const messages = [
   },
   { 
     date: "2026-08-13", 
-    text: "Giorno 20: ", 
+    text: "Giorno 20: Ti scrivo questa nota mentre sono parecchio 'alticcio'. Ciò che per me è la mia dimostrazione principale di amore nei tuoi confronti in questo periodo è proprio questo: ritirarsi di sera in qualsiasi giorno per scriverti delle parole, che spero facciano breccia nel tuo cuoricino. TI AMO!", 
     gif: "giorno20.gif" 
   },
   { 
