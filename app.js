@@ -104,7 +104,7 @@ const messages = [
   },
   { 
     date: "2026-08-14", 
-    text: "Giorno 21: ", 
+    text: "Giorno 21: Anche se non sono un chitarrista e tu non sei a New York, sappi che in questi giorni la canto spesso...mi fa pensare a te: https://www.youtube.com/watch?v=h_m-BjrxmgI", 
     gif: "giorno21.gif" 
   },
   { 
