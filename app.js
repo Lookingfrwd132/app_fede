@@ -109,12 +109,12 @@ const messages = [
   },
   { 
     date: "2026-08-15", 
-    text: "Giorno 22: Buon Ferragosto amore! Il prossimo lo passeremo incollati, te lo giuro.", 
+    text: "Giorno 22: Mentre ti stai godendo questa braciata, ricordati che stiamo guardando lo stesso cielo stellato (sempre che non sia già andato a dormire).", 
     gif: "giorno22.gif" 
   },
   { 
     date: "2026-08-16", 
-    text: "Giorno 23: Spero che tu abbia riso di gusto oggi. Il tuo sorriso mi manca tantissimo.", 
+    text: "Giorno 23: Manca meno di una settimana, non vedo l'ora di riabbracciarti fortissimo.", 
     gif: "giorno23.gif" 
   },
   { 
