@@ -119,42 +119,42 @@ const messages = [
   },
   { 
     date: "2026-08-17", 
-    text: "Giorno 24: Ti penso e ti invio un abbraccio così forte da togliere il fiato (virtualmente!).", 
+    text: "Giorno 24: Anche oggi sei stata il mio primissimo pensiero appena ho aperto gli occhi.", 
     gif: "giorno24.gif" 
   },
   { 
     date: "2026-08-18", 
-    text: "Giorno 25: Mettiamo una bella X sul calendario di oggi. Meno uno!", 
+    text: "Giorno 25: ", 
     gif: "giorno25.gif" 
   },
   { 
     date: "2026-08-19", 
-    text: "Giorno 26: Sai già cosa voglio fare appena ci rivediamo? Darti un bacio lunghissimo.", 
+    text: "Giorno 26: ", 
     gif: "giorno26.gif" 
   },
   { 
     date: "2026-08-20", 
-    text: "Giorno 27: Wow, Giorno 30. Un mese esatto! Siamo letteralmente a metà dell'opera!", 
+    text: "Giorno 27: ", 
     gif: "giorno27.gif" 
   },
   { 
     date: "2026-08-21", 
-    text: "Giorno 28: Da oggi inizia ufficialmente la discesa. Il traguardo si avvicina sempre di più!", 
+    text: "Giorno 28: ", 
     gif: "giorno28.gif" 
   },
   { 
     date: "2026-08-22", 
-    text: "Giorno 29: Stai mangiando bene? Prenditi cura di te per me, mi raccomando.", 
+    text: "Giorno 29: ", 
     gif: "giorno29.gif" 
   },
   { 
     date: "2026-08-23", 
-    text: "Giorno 30: Sto già preparando mentalmente la lista di tutte le cose belle che faremo al tuo ritorno.", 
+    text: "Giorno 30: ", 
     gif: "giorno30.gif" 
   },
   { 
     date: "2026-08-24", 
-    text: "Giorno 31: Anche oggi sei stata il mio primissimo pensiero appena ho aperto gli occhi.", 
+    text: "Giorno 31: ", 
     gif: "giorno31.gif" 
   },
   { 
