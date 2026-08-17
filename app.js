@@ -124,42 +124,42 @@ const messages = [
   },
   { 
     date: "2026-08-18", 
-    text: "Giorno 25: ", 
+    text: "Giorno 25: Oggi al mare ho sentito il suono delle onde che si infrangevano a riva, il vento fresco, i bambini che giocavano con la sabbia, ma mancava il bellissimo suono della tua voce: sarebbe stata una giornata perfetta.", 
     gif: "giorno25.gif" 
   },
   { 
     date: "2026-08-19", 
-    text: "Giorno 26: ", 
+    text: "Giorno 26: Il pensiero che domani ti avrò tra le mie braccia, che potrò baciarti, che potremmo passare tanto tempo insieme, mi riempie di gioia.", 
     gif: "giorno26.gif" 
   },
   { 
     date: "2026-08-20", 
-    text: "Giorno 27: ", 
+    text: "Giorno 27: A quest’ora starai prendendo sonno, o starai leggendo questa nota di mattina. Sappi che oggi non credo riuscirò a dormire, perché l’emozione che provo è indescrivibile. Non vedo l’ora di rivederti.", 
     gif: "giorno27.gif" 
   },
   { 
     date: "2026-08-21", 
-    text: "Giorno 28: ", 
+    text: "Giorno 28: Probabilmente in questo momento saremo in giro, forse a letto insieme o magari in stanze separate a causa dei vari impegni. Sappi che oggi sentire il tuo profumo, la tua voce, vederti dopo tutto questo tempo mi ha reso l’uomo più felice del mondo.", 
     gif: "giorno28.gif" 
   },
   { 
     date: "2026-08-22", 
-    text: "Giorno 29: ", 
+    text: "Giorno 29: Non c’è nulla da scrivere oggi, ora che sono con te voglio dirti tutto da vicino…", 
     gif: "giorno29.gif" 
   },
   { 
     date: "2026-08-23", 
-    text: "Giorno 30: ", 
+    text: "Giorno 30: Non c’è nulla da scrivere oggi, ora che sono con te voglio dirti tutto da vicino…", 
     gif: "giorno30.gif" 
   },
   { 
     date: "2026-08-24", 
-    text: "Giorno 31: ", 
+    text: "Giorno 31: Non c’è nulla da scrivere oggi, ora che sono con te voglio dirti tutto da vicino…", 
     gif: "giorno31.gif" 
   },
   { 
     date: "2026-08-25", 
-    text: "Giorno 32: Riguardare le nostre foto mi fa venire una voglia matta di averti qui.", 
+    text: "Giorno 32: ", 
     gif: "giorno32.gif" 
   },
   { 
