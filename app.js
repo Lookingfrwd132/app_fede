@@ -159,7 +159,7 @@ const messages = [
   },
   { 
     date: "2026-08-25", 
-    text: "Giorno 32: ", 
+    text: "Giorno 32: Finalmente il nostro tanto atteso tempo insieme: mi mancherà la gioia con cui mi hai fatto entrare nel tuo mondo e la bellezza di esplorare le città al tuo fianco. Ma mi mancheranno soprattutto i nostri momenti intimi: il tuo faccino sul mio petto, il tuo respiro sul mio viso, noi due che ci stringiamo e ci riempiamo di coccole. Queste sono solo alcune delle cose che mi mancheranno di più di questi giorni meravigliosi. Quanto avrei voluto che quella corsa sul tram fosse durata più di qualche minuto...Ti amo, mi manchi già tantissimo.", 
     gif: "giorno32.gif" 
   },
   { 
