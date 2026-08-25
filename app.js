@@ -164,12 +164,12 @@ const messages = [
   },
   { 
     date: "2026-08-26", 
-    text: "Giorno 33: Ti amo oggi un po' di più di ieri. Come sempre, d'altronde.", 
+    text: "Giorno 33: I giorni passati insieme sono stati per me come un forte raggio di sole: spero che questo calore rimanga fino al momento del nostro prossimo incontro.", 
     gif: "giorno33.gif" 
   },
   { 
     date: "2026-08-27", 
-    text: "Giorno 34: Non dimenticare mai quanto sei speciale e fondamentale per me.", 
+    text: "Giorno 34: ", 
     gif: "giorno34.gif" 
   },
   { 
