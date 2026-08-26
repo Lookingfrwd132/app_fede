@@ -169,27 +169,27 @@ const messages = [
   },
   { 
     date: "2026-08-27", 
-    text: "Giorno 34: ", 
+    text: "Giorno 34: Questa GIF mi ricorda in modo buffo te che balli, e pensarci adesso mi fa venire voglia di ballare con te. Quando vorrei poterlo fare proprio in questo momento.", 
     gif: "giorno34.gif" 
   },
   { 
     date: "2026-08-28", 
-    text: "Giorno 35: Solo un piccolo messaggio per ricordarti che ti supporto in tutto, ogni giorno.", 
+    text: "Giorno 35: Questa GIF, invece, ritrae esattamente il mio modo elegante e sensuale di danzare. Sei emozionata? Beh, ovvio: guarda come ondeggiano le braccia. Spero che oggi sia una bella giornata, ti amoo!", 
     gif: "giorno35.gif" 
   },
   { 
     date: "2026-08-29", 
-    text: "Giorno 36: Immagino il momento in cui ci rivedremo e mi viene letteralmente la pelle d'oca.", 
+    text: "Giorno 36: Ovunque sia casa, so che casa è sempre e soltanto con te. Un giorno potremmo davvero vivere insieme, fino a quel momento facciamo in modo che sia possibile.", 
     gif: "giorno36.gif" 
   },
   { 
     date: "2026-08-30", 
-    text: "Giorno 37: Entriamo negli '-anta'! Dai che manca davvero pochissimo ormai.", 
+    text: "Giorno 37: Con te mi sollevo, e da quassù il mondo è radioso.", 
     gif: "giorno37.gif" 
   },
   { 
     date: "2026-08-31", 
-    text: "Giorno 38: Salutiamo agosto con un sorriso. Ultimi sforzi amore mio, tieni duro!", 
+    text: "Giorno 38: E con oggi si chiude Agosto: non vedo l'ora ti poter rivedere il tuo bellissimo faccino e poterti stringere quelle bellissime guanciotte che hai.", 
     gif: "giorno38.gif" 
   },
   { 
@@ -199,7 +199,7 @@ const messages = [
   },
   { 
     date: "2026-09-02", 
-    text: "Giorno 40: Che fatica stare senza di te, ma ne vale la pena sapendo che poi ci sei tu ad aspettarmi.", 
+    text: "Giorno 40: ", 
     gif: "giorno40.gif" 
   },
   { 
