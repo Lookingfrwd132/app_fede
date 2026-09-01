@@ -199,7 +199,7 @@ const messages = [
   },
   { 
     date: "2026-09-02", 
-    text: "Giorno 40: ", 
+    text: "Giorno 40: Ora che l'estate volge al termine, la tua assenza si fa sentire. Parte di me vuole che tu viva questa esperienza appieno, ed è giusto che sia così: sono davvero tanto fiero di te e di ciò che stai facendo in questi giorni. Tuttavia, un'altra parte non si da pace, perché mi manchi: mi manca accarezzare il tuo viso, mi mancano i tuoi piccoli gesti nei miei confronti, mi manca andare insieme al Mid, mi manca stare in auto a chiaccherare per ore, senza fare altro se non guardarci negli occhi e parlare di noi. Infine, mi manca anche fare questo (GIF) :D .", 
     gif: "giorno40.gif" 
   },
   { 
