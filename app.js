@@ -204,22 +204,22 @@ const messages = [
   },
   { 
     date: "2026-09-03", 
-    text: "Giorno 41: Ormai i giorni che mancano si contano quasi sulle dita delle mani!", 
+    text: "Giorno 41: Non vedo l'ora di andare a vedere un film insieme, mi mancano quei momenti...", 
     gif: "giorno41.gif" 
   },
   { 
     date: "2026-09-04", 
-    text: "Giorno 42: Tre quarti del percorso andati! Possiamo quasi intravedere la fine.", 
+    text: "Giorno 42: A breve il caldo si affievolirà, le giornate si accorceranno e inizierà a fare più freddo qui, e tutto questo potremmo viverlo insieme.", 
     gif: "giorno42.gif" 
   },
   { 
     date: "2026-09-05", 
-    text: "Giorno 43: La mia voglia di vederti è arrivata ufficialmente a livelli critici.", 
+    text: "Giorno 43: La mia voglia di vederti è arrivata ufficialmente a livelli critici! Andiamo a mare insieme quando torniii.", 
     gif: "giorno43.gif" 
   },
   { 
     date: "2026-09-06", 
-    text: "Giorno 44: Fai il conto alla rovescia con me? Manca pochissimooooo!", 
+    text: "Giorno 44: ", 
     gif: "giorno44.gif" 
   },
   { 
