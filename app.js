@@ -219,22 +219,22 @@ const messages = [
   },
   { 
     date: "2026-09-06", 
-    text: "Giorno 44: ", 
+    text: "Giorno 44: Con oggi mancano ufficialmente 2 settimane e potremmo rivederci. SOLO DUE SETTIMANE! Ricorda che ti penso sempre...", 
     gif: "giorno44.gif" 
   },
   { 
     date: "2026-09-07", 
-    text: "Giorno 45: Spero che la tua valigia mentale sia già piena di cose da raccontarmi. Voglio sapere tutto.", 
+    text: "Giorno 45: Questi giorni lontani mi hanno fatto capire che il mio futuro è pieno di te. Che dici, andremo a vivere insieme?", 
     gif: "giorno45.gif" 
   },
   { 
     date: "2026-09-08", 
-    text: "Giorno 46: Ti ho già detto che sei bellissima oggi? Anche se non ti vedo, so che è così.", 
+    text: "Giorno 46: Ti ho già detto che sei bellissima oggi? Se non l'ho fatto, è vergognoso: sei stupenda!", 
     gif: "giorno46.gif" 
   },
   { 
     date: "2026-09-09", 
-    text: "Giorno 47: Cinquanta! È un numero bellissimo, la vetta è vicinissima.", 
+    text: "Giorno 47: ", 
     gif: "giorno47.gif" 
   },
   { 
