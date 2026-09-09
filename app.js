@@ -234,7 +234,7 @@ const messages = [
   },
   { 
     date: "2026-09-09", 
-    text: "Giorno 47: Ehi amore, scusa se non si è caricata la frase di oggi...Sinceramente, non mi va di "riciclarti" la frase che avevo scritto, quindi ti racconto cosa ho pensato ieri: quanto vorrei che Fede fosse qui a vedere la partita, quanto vorrei che fosse qui a parlare con Rin, quanto vorrei che fosse qui per abbracciarla e riempirla di baci. Non vedo l'ora di rivederti e baciarti taaaanto tanto, preparati! Ti amooooooo.", 
+    text: "Giorno 47: Ehi amore, scusa se non si è caricata la frase di oggi...Sinceramente, non mi va di 'riciclarti' la frase che avevo scritto, quindi ti racconto cosa ho pensato ieri: quanto vorrei che Fede fosse qui a vedere la partita, quanto vorrei che fosse qui a parlare con Rin, quanto vorrei che fosse qui per abbracciarla e riempirla di baci. Non vedo l'ora di rivederti e baciarti taaaanto tanto, preparati! Ti amooooooo.", 
     gif: "giorno47.gif" 
   },
   { 
