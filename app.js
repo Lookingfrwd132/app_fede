@@ -244,7 +244,7 @@ const messages = [
   },
   { 
     date: "2026-09-11", 
-    text: "Giorno 49: ", 
+    text: "Giorno 49: Quanto avrei coluro passare questa lunga giornata con te...non vedo l'ora di riaverti tra le mie braccia!!!!", 
     gif: "giorno49.gif" 
   },
   { 
