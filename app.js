@@ -244,47 +244,47 @@ const messages = [
   },
   { 
     date: "2026-09-11", 
-    text: "Giorno 49: Quanto avrei coluro passare questa lunga giornata con te...non vedo l'ora di riaverti tra le mie braccia!!!!", 
+    text: "Giorno 49: Quanto avrei voluto passare questa lunga giornata con te...non vedo l'ora di riaverti tra le mie braccia!!!!", 
     gif: "giorno49.gif" 
   },
   { 
     date: "2026-09-12", 
-    text: "Giorno 50: Cerca di non prendere impegni, perché quando torni sarò la tua ombra.", 
+    text: "Giorno 50: Cerca di non prendere troppi impegni, perché quando torni sarò la tua ombra!", 
     gif: "giorno50.gif" 
   },
   { 
     date: "2026-09-13", 
-    text: "Giorno 51: Sto già iniziando a preparare mentalmente i fuochi d'artificio per il tuo ritorno.", 
+    text: "Giorno 51: Sto già iniziando a preparare mentalmente tuuutto quello che voglio fare con te al tuo rientro. Mi manchi tantissimo.", 
     gif: "giorno51.gif" 
   },
   { 
     date: "2026-09-14", 
-    text: "Giorno 52: Hai già iniziato a preparare le valigie per il ritorno? Sbrigatiii!", 
+    text: "Giorno 52: ", 
     gif: "giorno52.gif" 
   },
   { 
     date: "2026-09-15", 
-    text: "Giorno 53: Il letto è decisamente troppo grande senza di te. Torna presto a occupare il tuo lato.", 
+    text: "Giorno 53: ", 
     gif: "giorno53.gif" 
   },
   { 
     date: "2026-09-16", 
-    text: "Giorno 54: Ancora pochissime notti separate e poi ci addormenteremo di nuovo insieme.", 
+    text: "Giorno 54: In bocca al lupo per la tua presentazione di oggi, so quanto ti sei impeganta in questi due mesi per arrivare fino a qui. Sei stata bravissima, ora è il momento di ricevere tutti i complimenti meritati!", 
     gif: "giorno54.gif" 
   },
   { 
     date: "2026-09-17", 
-    text: "Giorno 55: Non vedo l'ora di stringerti così forte da farti mancare il respiro.", 
+    text: "Giorno 55: Sarò sempre orgoglioso di te. Oggi breve, ma è ciò che penso da tutto il giorno.", 
     gif: "giorno55.gif" 
   },
   { 
     date: "2026-09-18", 
-    text: "Giorno 56: Ci siamo quasi. Domani è il giorno che aspettiamo da due mesi. Preparati.", 
+    text: "Giorno 56: Ci siamo quasi. Domani è il giorno che aspettiamo da due mesi. Preparatiiii.", 
     gif: "giorno56.gif" 
   },
   { 
     date: "2026-09-19", 
-    text: "Giorno 57: È IL GRANDE GIORNO! Corri da me, ti sto aspettando a braccia aperte! ❤️", 
+    text: "Giorno 57: ", 
     gif: "giorno57.gif" 
   }
   ];
