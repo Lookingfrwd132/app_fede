@@ -249,7 +249,7 @@ const messages = [
   },
   { 
     date: "2026-09-12", 
-    text: "Giorno 50: Cerca di non prendere troppi impegni, perché quando torni sarò la tua ombra!", 
+    text: "Giorno 50: Ehi come ti senti? Stai meglio? Non so quando leggerai questo messaggio, ma sappi che mi sono spaventato A MORTE quando ho letto il messaggio di Desi, e, nonostate mi avesse scritto 'senti non ti spaventare', ho temuto davvero il peggio, sentivo il cuore gelarsi nel petto e ammetto che non sono riuscito a partire subito alla guida. Il tuo benessere e la tua felicità sono tutto per me.", 
     gif: "giorno50.gif" 
   },
   { 
@@ -259,7 +259,7 @@ const messages = [
   },
   { 
     date: "2026-09-14", 
-    text: "Giorno 52: ", 
+    text: "Giorno 52: Cerca di non prendere troppi impegni, perché quando torni sarò la tua ombra!", 
     gif: "giorno52.gif" 
   },
   { 
