@@ -259,7 +259,7 @@ const messages = [
   },
   { 
     date: "2026-09-14", 
-    text: "Giorno 52: Cerca di non prendere troppi impegni, perché quando torni sarò la tua ombra!", 
+    text: "Giorno 52: Cerca di non prendere troppi impegni, perché quando tornerai sarò la tua ombra!", 
     gif: "giorno52.gif" 
   },
   { 
