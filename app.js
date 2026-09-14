@@ -264,7 +264,7 @@ const messages = [
   },
   { 
     date: "2026-09-15", 
-    text: "Giorno 53: ", 
+    text: "Giorno 53: Ehi come va? Stai andando a dormire o stai provando la presentazione? Ricorda che ti amo, e per qualsiasi cosa puoi sempre contare su di me, SEMPREEE.", 
     gif: "giorno53.gif" 
   },
   { 
