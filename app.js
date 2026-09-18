@@ -284,7 +284,7 @@ const messages = [
   },
   { 
     date: "2026-09-19", 
-    text: "Giorno 57: ", 
+    text: "Giorno 57: Oggi termina questa splendida avventura...quante nuove amicizie che hai avuto modo di fare in questi due mesi, quanti bei momenti hai passato, quante nozioni hai appreso, quanta allegria, quanta gioia, ma anche quanti pianti, quante ore passate davanti a cose mai viste e ad avere a che fare con quella bruttissima informatica. Quante esperienze hai fatto, di ogni tipo, in quanti Beer Garden sei stata, quante serate passate con persone che vengono dall'altra parte del mondo (per alcuni, letteralmente), quante città nuove hai visitato, quanti ricordi hai impresso in maniera permanentente nella tua mente, e quante altre cose, tantissime, impossibili da elencare. Se penso a questa esperienza che hai vissuto, non posso fare a meno di pensare che ti abbia fatta crescere, non tanto per il fatto che tu sia andata a vivere da sola, e neanche perché siamo stati lontani per così tanto tempo. Hai imparato a vivere così a lungo parlando due lingue straniere (una di queste è il napoletano) in un ambiente totalmente diverso dalla tua cara Parete (bleah) e, a primo impatto, quasi ostico (e.g. la commessa tedesca). Mi hai detto che questo tempo passato in Germania ha occupato poco più dell'1% della tua vita, ma sono sicuro che nel tuo cuore hai riservato uno spazio molto più grande per questa avventura. E ora, finalmente, stai tornando da me. Oggi azzeriamo la distanza e il desiderio di averti vicina è letteralmente alle stelle. Mi sei mancata così tanto, non vedo l'ora che tu sia qui, ti aspetto a braccia aperte. Sono infinitamente orgoglioso della persona che sei. Ti amo.", 
     gif: "giorno57.gif" 
   }
   ];
