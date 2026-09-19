@@ -72,6 +72,8 @@ header h1 {
   width: 80%;
   max-width: 400px;
   position: relative;
+  max-height: 80vh; /* Limita l'altezza massima all'80% dello schermo */
+  overflow-y: auto; /* Fa comparire la barra di scorrimento verticale se serve */
 }
 
 #close-modal {
